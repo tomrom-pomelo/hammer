@@ -1,4 +1,4 @@
-module github.com/daichirata/hammer
+module github.com/tomrom-pomelo/hammer
 
 go 1.18
 

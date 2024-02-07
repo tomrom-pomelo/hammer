@@ -2,18 +2,18 @@
 
 hammer is a command-line tool to schema management for Google Cloud Spanner.
 
-![](https://github.com/daichirata/hammer/workflows/Test/badge.svg)
+![](https://github.com/tomrom-pomelo/hammer/workflows/Test/badge.svg)
 
 ## Installation
 
 Download the single-binary executable from:
 
-https://github.com/daichirata/hammer/releases
+https://github.com/tomrom-pomelo/hammer/releases
 
 or
 
 ``` shell
-$ go install github.com/daichirata/hammer@latest
+$ go install github.com/tomrom-pomelo/hammer@latest
 ```
 
 ## Usage

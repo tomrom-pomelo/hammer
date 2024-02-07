@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/daichirata/hammer/cmd"
+	"github.com/tomrom-pomelo/hammer/cmd"
 )
 
 var version string

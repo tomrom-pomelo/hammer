@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/daichirata/hammer/internal/hammer"
 	"github.com/spf13/cobra"
+	"github.com/tomrom-pomelo/hammer/internal/hammer"
 )
 
 var (

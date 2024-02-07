@@ -7,7 +7,7 @@ import (
 
 	"cloud.google.com/go/spanner/spansql"
 
-	"github.com/daichirata/hammer/internal/hammer"
+	"github.com/tomrom-pomelo/hammer/internal/hammer"
 )
 
 func TestParseDDL(t *testing.T) {

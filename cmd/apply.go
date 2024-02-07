@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/daichirata/hammer/internal/hammer"
+	"github.com/tomrom-pomelo/hammer/internal/hammer"
 )
 
 var (
